@@ -2,7 +2,7 @@
 
 Desarrollador Java con experiencia en backend y bases de datos, apasionado por construir aplicaciones robustas y escalables.
 
-Java SE/EE | Spring | SQL | Python | Oracle Cloud | Aprendiendo Docker & AWS
+SQL | Java SE/EE | Spring Framework | Spring Boot | Python | Aprendiendo Cloud Computing & DevOps
 
 ---
 
