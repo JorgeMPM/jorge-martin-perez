@@ -1,6 +1,6 @@
 # Hola, soy Jorge Martín Pérez Moreno 👋
 
-Desarrollador Java con experiencia en backend y bases de datos, apasionado por construir aplicaciones robustas y escalables.
+Desarrollador Java Backend Junior con formación intensiva en Java SE/EE, Spring MVC, Hibernate, Docker y SQL. He construido aplicaciones web completas aplicando el patrón MVC, gestión de persistencia con Hibernate y despliegue con Docker.
 
 SQL | Java SE/EE | Spring Framework | Spring Boot | Python | Aprendiendo Cloud Computing & DevOps
 
